@@ -1,0 +1,98 @@
+[
+  {
+    "user": "Aisha",
+    "habit": "Running",
+    "date": "2026-01-01",
+    "done": 1
+  },
+  {
+    "user": "Aisha",
+    "habit": "Reading",
+    "date": "2026-01-01",
+    "done": 1
+  },
+  {
+    "user": "Aisha",
+    "habit": "Running",
+    "date": "2026-01-02",
+    "done": 0
+  },
+  {
+    "user": "Aisha",
+    "habit": "Reading",
+    "date": "2026-01-02",
+    "done": 1
+  },
+  {
+    "user": "Aisha",
+    "habit": "Meditation",
+    "date": "2026-01-03",
+    "done": 1
+  },
+  {
+    "user": "Aidos",
+    "habit": "Running",
+    "date": "2026-01-01",
+    "done": 1
+  },
+  {
+    "user": "Aidos",
+    "habit": "Reading",
+    "date": "2026-01-01",
+    "done": 0
+  },
+  {
+    "user": "Aidos",
+    "habit": "Meditation",
+    "date": "2026-01-02",
+    "done": 1
+  },
+  {
+    "user": "Aidos",
+    "habit": "Running",
+    "date": "2026-01-02",
+    "done": 1
+  },
+  {
+    "user": "Aidos",
+    "habit": "Reading",
+    "date": "2026-01-03",
+    "done": 0
+  },
+  {
+    "user": "Dana",
+    "habit": "Running",
+    "date": "2026-01-01",
+    "done": 0
+  },
+  {
+    "user": "Dana",
+    "habit": "Reading",
+    "date": "2026-01-01",
+    "done": 1
+  },
+  {
+    "user": "Dana",
+    "habit": "Meditation",
+    "date": "2026-01-02",
+    "done": 1
+  },
+  {
+    "user": "Dana",
+    "habit": "Running",
+    "date": "2026-01-03",
+    "done": 1
+  },
+  {
+    "user": "Dana",
+    "habit": "Reading",
+    "date": "2026-01-03",
+    "done": 1
+  },
+  {
+    "user": "maga",
+    "habit": "swimming",
+    "date": "2024-12-12",
+    "done": 1
+  }
+]
